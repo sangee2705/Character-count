@@ -99,10 +99,11 @@ Through this project, I learned how to:
 ## 🌐 Live Demo
 
 
----
+[View Project](https://sangee2705.github.io/Character-count/)
 
 ## 🔗 GitHub Repository
 
+[View Source Code](https://github.com/sangee2705/Character-count)
 
 ---
 
